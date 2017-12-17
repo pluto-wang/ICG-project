@@ -19,6 +19,7 @@
 3) Vuforia AR marker， 指甲的範圍非常小，因此必須尋找小型的marker 來進行製作 <br/>
 
 ## Operation
+我們製作了 4 種指甲的形狀分別是 normal,oval, square, stiletto 讓使用者選擇，顏色的部分有 Pink, red, black, golden, others(豹紋) 幾種色彩供使用者選擇
 
 ## Future Work
 - Markless <br/>
